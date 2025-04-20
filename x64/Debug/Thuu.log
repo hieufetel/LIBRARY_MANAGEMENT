@@ -1,0 +1,6 @@
+﻿  Thuu.cpp
+D:\FileCuaMyduyn\THOOP\Thuu\Thuu\Thuu.cpp(1396,9): warning C4002: too many arguments for function-like macro invocation 'CreateWindowW'
+D:\FileCuaMyduyn\THOOP\Thuu\Thuu\Thuu.cpp(1501,26): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+D:\FileCuaMyduyn\THOOP\Thuu\Thuu\Thuu.cpp(1842,21): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+D:\FileCuaMyduyn\THOOP\Thuu\Thuu\Thuu.cpp(1903,21): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  Thuu.vcxproj -> D:\FileCuaMyduyn\THOOP\Thuu\x64\Debug\Thuu.exe
